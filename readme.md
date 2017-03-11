@@ -4,6 +4,8 @@
 This is a frame buffer driver module for PYNQ-Z1 board with the base overlay,
 which enables to use applications which supports kernel framebuffer device to render its graphical outputs like X Window System on PYNQ-Z1 board.
 
+[日本語版](readme_ja.md)
+
 ## Requirements
 * A PYNQ-Z1 board or equivalent.
 * PYNQ-Z1 prebuilt image released at Feb 2017 or later.
