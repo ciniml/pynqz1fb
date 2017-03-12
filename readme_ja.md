@@ -28,6 +28,8 @@ X Window Systemといったようなグラフィックをフレームバッフ�
     * ほかの解像度はそのうちサポートします。
 
 ## インストール
+* ビルド済みバイナリを使用する場合は[ここ](https://github.com/ciniml/pynqz1fb/releases/download/v0.1/pynqz1fb_0.1.zip)からダウンロードして手順7から始めてください。
+
 1. このリポジトリをどこかにcloneする。
     
     ```

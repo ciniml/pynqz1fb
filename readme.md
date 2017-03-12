@@ -29,6 +29,8 @@ which enables to use applications which supports kernel framebuffer device to re
     * Other display resolutions will be supported in future release.
 
 ## Install
+* If you want to use prebuilt binary of this framebuffer driver, download the prebuilt binary from [here](https://github.com/ciniml/pynqz1fb/releases/download/v0.1/pynqz1fb_0.1.zip) and begin from the procedure 7.
+
 1. clone this repository into somewhere.
   
     ```
